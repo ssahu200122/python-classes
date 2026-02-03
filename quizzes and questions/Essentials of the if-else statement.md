@@ -74,7 +74,8 @@ The code should output one of two possible messages, which are `'Leap year'` or 
 
 It would be good to verify if the entered year falls into the Gregorian era, and output a warning otherwise: Not within the Gregorian calendar period. 
 
-> [!TIP]: use the != and % operators.
+> [!TIP]
+> use the != and % operators.
 
 Test your code using the data we've provided:
 
