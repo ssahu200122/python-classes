@@ -11,7 +11,7 @@ Your task is to write a **tax calculator**.
 - It should accept one floating-point value: the **income**.
 - Next, it should print the calculated tax, rounded to full thalers. There's a function named `round()` which will do the rounding for you – you'll find it in the skeleton code in the editor.
 
->Note: this happy country never returned any money to its citizens. If the calculated tax was less than zero, it would only mean no tax at all (the tax was equal to zero). Take this into consideration during your calculations.
+>[!NOTE]: this happy country never returned any money to its citizens. If the calculated tax was less than zero, it would only mean no tax at all (the tax was equal to zero). Take this into consideration during your calculations.
 
 
 
@@ -73,7 +73,7 @@ The code should output one of two possible messages, which are `'Leap year'` or 
 
 It would be good to verify if the entered year falls into the Gregorian era, and output a warning otherwise: Not within the Gregorian calendar period. 
 
-> Tip: use the != and % operators.
+> [!TIP]: use the != and % operators.
 
 Test your code using the data we've provided:
 
